@@ -1,0 +1,5 @@
+C:\Users\Edin\documents\visual studio 2013\Projects\Web1\Web1\bin\Web1.dll
+C:\Users\Edin\documents\visual studio 2013\Projects\Web1\Web1\bin\Web1.pdb
+C:\Users\Edin\documents\visual studio 2013\Projects\Web1\Web1\obj\Debug\Web1.csprojResolveAssemblyReference.cache
+C:\Users\Edin\documents\visual studio 2013\Projects\Web1\Web1\obj\Debug\Web1.dll
+C:\Users\Edin\documents\visual studio 2013\Projects\Web1\Web1\obj\Debug\Web1.pdb
